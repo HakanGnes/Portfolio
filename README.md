@@ -23,4 +23,8 @@
   - Association Rule Based Recommender System [Lİnk](https://github.com/HakanGnes/ASSOCIATION-RULE-LEARNING-)
 #
 ## Feature Engineering
-  - 
+  - Diabete Feature Engineering [Link](https://github.com/HakanGnes/Diabete-Feature-Engineering#diabete-feature-engineering)
+  - Telco Customer Churn Feature Engineering [Link](https://github.com/HakanGnes/Telco-Customer-Churn-Feature-Engineering)
+#
+## Machine Learning
+
