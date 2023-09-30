@@ -15,6 +15,12 @@
 #   
 ## Measurement Problems
   - Comparison of AB Test and Conversion of Bidding Methods with Facebook Data [Lİnk](https://github.com/HakanGnes/Comparison-of-AB-Test-and-Conversion-of-Bidding-Methods-with-Facebook-Data)
-  - 
-
+  - Rating Product & Sorting Reviews in Amazon [Link](https://github.com/HakanGnes/Rating-Product-Sorting-Reviews-in-Amazon)
 #
+## Recommendation Systems
+  - Armut Association Rule Based Recommender System [Link](https://github.com/HakanGnes/Association-Rule-Based-Recommender-System)
+  - MovieLens Hybrid Recommender System [Link](https://github.com/HakanGnes/MovieLens-Hybrid-Recommender-System)
+  - Association Rule Based Recommender System [Lİnk](https://github.com/HakanGnes/ASSOCIATION-RULE-LEARNING-)
+#
+## Feature Engineering
+  - 
