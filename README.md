@@ -2,6 +2,7 @@
 	
 ## Currently Working On
   - Transfer Rumor [Link](https://github.com/HakanGnes/TransferRumor-App)
+  - AnalyzeWise CRM [Link](https://github.com/HakanGnes/AnalyzeWise-CRM)
 #
 ## Python For Data Science
   - Calculating Lead Yield with Rule-Based Classification [Link](https://github.com/HakanGnes/Calculating-Lead-Yield-with-Rule-Based-Classification)
