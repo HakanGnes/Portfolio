@@ -39,3 +39,4 @@
   - Telco Customer Churn Prediction [Link](https://github.com/HakanGnes/Telco-Churn-Prediction)
   - Bank Marketing Data Analysis and Classification [Link](https://github.com/HakanGnes/Bank-Marketing-Data-Analysis-and-Classification)
   - Bank Loan Data Analysis and Classifaciton [Link](https://github.com/HakanGnes/Bank-Loan-Data-Analysis-and-Classifaciton)
+  - Flo Unsupervised Learning Methods [Link](https://github.com/HakanGnes/Flo-Unsupervised-Learning-)
