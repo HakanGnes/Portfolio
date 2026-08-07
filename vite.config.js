@@ -5,5 +5,5 @@ import react from "@vitejs/plugin-react";
 // Siteyi kullanici-adi.github.io reposuna koyarsan base: "/" yap.
 export default defineConfig({
   plugins: [react()],
-  base: "/portfolio/",
+  base: "/Portfolio/",
 });
