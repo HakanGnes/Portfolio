@@ -26,6 +26,15 @@ export const projects = [
     featured: true,
   },
   {
+  name: "CRM Kampanya + AI SMS Otomasyonu",
+  cat: "ai", // kendi categories listendeki doğru anahtarla değiştir (ml/automation/api gibi bir şey olabilir)
+  year: 2026,
+  stack: ["Python", "FastAPI", "Next.js", "TypeScript"],
+  blurb: "Kampanya tipine göre kitle segmentasyonu yapan ve AI ile kişiselleştirilmiş SMS taslağı üreten, sektör-agnostik bir CRM otomasyon sistemi.",
+  repo: gh("crm-ai-automation"),
+  live: "https://crm-ai-automation.vercel.app",
+  },
+  {
     name: "AnalyzeWise CRM",
     cat: "crm",
     year: 2025,
