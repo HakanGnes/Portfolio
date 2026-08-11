@@ -35,12 +35,13 @@ export const projects = [
   live: "https://crm-ai-automation.vercel.app",
   },
   {
-    name: "AnalyzeWise CRM",
-    cat: "crm",
-    year: 2025,
-    stack: ["Python", "pandas"],
-    blurb: "Müşteri verisini uçtan uca analiz eden CRM analitiği çalışması.",
-    repo: gh("AnalyzeWise-CRM"),
+  name: "AnalyzeWise CRM",
+  cat: "ml",                      // "machine learning" / "data-science" gibi bir anahtarın var mı kontrol et — projede K-Means, XGBoost, FP-Growth var
+  year: 2026,
+  stack: ["Python", "React", "FastAPI", "XGBoost", "scikit-learn"],
+  blurb: "Perakende CRM verisinden K-Means segmentasyon, XGBoost ile CLTV/churn tahmini ve FP-Growth + collaborative filtering ile ürün önerisi üreten uçtan uca analiz uygulaması. React + FastAPI ile ayrı frontend/backend mimarisi.",
+  repo: gh("analyzewise-crm"),
+  live: "https://analyzewise-crm.vercel.app",
   },
   {
     name: "FLO — RFM ile Müşteri Segmentasyonu",
