@@ -15,6 +15,18 @@ const gh = (repo) => `https://github.com/HakanGnes/${repo}`;
 
 export const projects = [
   {
+    name: "Pro-Scout DL",
+    cat: "football",
+    year: 2026,
+    stack: ["PyTorch", "PyTorch Geometric", "LightGBM", "BERTurk", "Next.js", "TypeScript"],
+    blurb:
+      "Futbol scouting için derin öğrenme modelleri, her biri basit bir baseline'a karşı ve çalıştırılmadan önce kaydedilmiş çalışmalarla test edildi: pas ağlarında GNN, piyasa değerinde LSTM ve Transformer, Türkçe transfer söylentilerinde BERTurk. Sonuçlar baseline kazandığında da olduğu gibi raporlandı.",
+    how: ["Taktik tahtası: oyuncu değiştir, 10 model tarayıcıda xG'yi tahmin etsin", "2026 transfer söylentileri, olasılık ve sonuçla", "Bir yıl sonraki piyasa değeri, 5 modelin test tahminleri"],
+    repo: gh("pro-scout-dl"),
+    live: "https://pro-scout-lime.vercel.app",
+    featured: true,
+  },
+  {
     name: "TransferRumor",
     cat: "football",
     year: 2026,
@@ -23,7 +35,6 @@ export const projects = [
       "Oyuncu istatistiklerinden segmentasyon çıkaran ve kulüp ihtiyacına göre transfer önerisi üreten uygulama. Veri kaynağı statik Excel'den API-Football + SQLite'a taşındı, kümeleme için özel elbow tespiti yazıldı.",
     repo: gh("TransferRumor"),
     live: "https://transfer-rumor.vercel.app",
-    featured: true,
   },
   {
   name: "CRM Kampanya + AI SMS Otomasyonu",

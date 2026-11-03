@@ -23,9 +23,9 @@ function Featured({ p }) {
           Nasıl çalışıyor
         </p>
         <ul className="stack" style={{ margin: 0 }}>
-          <li>Kümeleme ile oyuncu segmentleri</li>
-          <li>Pozisyon bazlı benzerlik</li>
-          <li>Canlı API verisi</li>
+          {(p.how || []).map((h) => (
+            <li key={h}>{h}</li>
+          ))}
         </ul>
         <div className="side-links">
           {p.live && (
